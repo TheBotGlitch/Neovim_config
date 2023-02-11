@@ -1,0 +1,8 @@
+require("glitch.plugins-setup")
+require("glitch.core.options")
+require("glitch.core.keymaps")
+require("glitch.core.colorscheme")
+require("glitch.plugins.nvim-tree")
+require("glitch.plugins.lualine")
+require("glitch.plugins.telescope")
+require("glitch.plugins.nvim-cmp")
